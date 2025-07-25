@@ -10,7 +10,7 @@ function App() {
     <>
       <div className="min-h-screen flex flex-col">
         <Header />
-        <div class="flex-1 flex flex-col items-center justify-center">
+        <div className="flex-1 flex flex-col items-center justify-center">
           <div>
             <a href="https://vite.dev" target="_blank">
               <img src={viteLogo} className="logo" alt="Vite logo" />
